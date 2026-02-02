@@ -5,8 +5,13 @@ A comprehensive React Native educational application designed to provide interac
 
 **Author**: Kriti Purwar, Anshika Srivastava, Gauri Singh
 
+### Home Screen
+![Home Screen](assets/images/homescreen.png)
 
-## 📚 Usage Guide
+### Selection Page
+![Selection Page](assets/images/selection.png)
+
+
 
 ### Getting Started
 1. **Sign Up**: Create a new account with name, class, and phone number
@@ -71,6 +76,10 @@ A comprehensive React Native educational application designed to provide interac
 - व्याकरण (Grammar)
 - गद्य और पद्य (Prose and Poetry)
 - लेखन कौशल (Writing Skills)
+
+
+### Subject Page
+![Subject Page](assets/images/subject.png)
 
 #### Social Studies (Classes 6-8)
 - **History**: Ancient civilizations, Medieval period
