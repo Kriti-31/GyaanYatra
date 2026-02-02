@@ -1,52 +1,7 @@
 # GyaanYatra - Complete Educational Mobile App
 
 A comprehensive React Native educational application designed to provide interactive learning experiences for students from Class 6 to Class 10.
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (>=20.x)
-- npm or yarn
-- React Native CLI
-- Android Studio (for Android development)
-- Xcode (for iOS development)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone [repository-url]
-   cd GyaanYatra
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. **Start Metro Bundler**
-   ```bash
-   npm start
-   # or
-   yarn start
-   ```
-
-4. **Run on Android**
-   ```bash
-   npm run android
-   # or
-   yarn android
-   ```
-
-5. **Run on iOS**
-   ```bash
-   npm run ios
-   # or
-   yarn ios
-   ```
-
+**Author**: Kriti Purwar, Anshika Srivastava, Gauri Singh
 ## 📚 Usage Guide
 
 ### Getting Started
@@ -129,27 +84,6 @@ The app uses AsyncStorage to persist:
 - App settings and preferences
 - Achievement unlocks
 
-### Data Structure
-``javascript
-// User Progress
-{
-  "MATHS_6_1": {
-    "completionPercentage": 100,
-    "updatedAt": "2024-01-15T10:30:00Z"
-  }
-}
-
-// Quiz Scores
-{
-  "MATHS_6_1": [
-    {
-      "score": 4,
-      "totalQuestions": 5,
-      "timestamp": "2024-01-15T10:30:00Z"
-    }
-  ]
-}
-```
 
 ## 🔧 Development
 
