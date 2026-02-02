@@ -1,7 +1,11 @@
 # GyaanYatra - Complete Educational Mobile App
 
 A comprehensive React Native educational application designed to provide interactive learning experiences for students from Class 6 to Class 10.
+
+
 **Author**: Kriti Purwar, Anshika Srivastava, Gauri Singh
+
+
 ## 📚 Usage Guide
 
 ### Getting Started
