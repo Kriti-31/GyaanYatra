@@ -12,6 +12,9 @@ A comprehensive React Native educational application designed to provide interac
 ![Selection Page](assets/images/selection.png)
 
 
+### Login Page
+![Home Screen](assets/images/login.png)
+
 
 ### Getting Started
 1. **Sign Up**: Create a new account with name, class, and phone number
