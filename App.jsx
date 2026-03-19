@@ -12,7 +12,6 @@ import Quiz from './android/app/src/components/Quiz';
 import Profile from './android/app/src/components/Profile';
 import Search from './android/app/src/components/Search';
 import ProgressTracker from './android/app/src/components/ProgressTracker';
-
 const Stack = createNativeStackNavigator();
 
 export default function App() {
